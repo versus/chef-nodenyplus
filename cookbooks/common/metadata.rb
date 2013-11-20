@@ -1,0 +1,5 @@
+maintainer       "Valentin Nastenko"
+maintainer_email "versus.ua@gmail.com"
+license          "Apache 2.0"
+description      ""
+version          "0.3"
